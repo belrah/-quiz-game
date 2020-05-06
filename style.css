@@ -45,7 +45,7 @@ body{
  }
  
  .options div{
-   background-color: cyan;
+   background-color: orange;
    font-size:16px;
    color:000000;
    margin-bottom:10px;
@@ -55,6 +55,8 @@ body{
    overflow:hidden;
    cursor: pointer;
    width: 230px;
+   Margin-left: 0;
+   Margin-right: 0;
  }
  .options div.disabled{
      pointer-events: none;
